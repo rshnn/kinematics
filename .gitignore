@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+debug.log
+munition.py
+three_dof
+six_dof
